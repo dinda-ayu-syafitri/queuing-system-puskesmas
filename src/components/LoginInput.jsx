@@ -1,5 +1,4 @@
 import { Container, FormControl, FormLabel, Input, Button } from '@chakra-ui/react'
-import { Field, Formik } from 'formik'
 import React, { useState } from 'react'
 import supabase from '../config/supabaseClient'
 
