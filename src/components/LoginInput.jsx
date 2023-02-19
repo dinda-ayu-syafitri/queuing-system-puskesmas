@@ -50,7 +50,7 @@ function LoginInput() {
                 </FormControl>
                 <Button type='submit'>Submit</Button>
             </form>
-        </Container>
+        </Container>, data
 
     )
 }
